@@ -35,5 +35,5 @@ I am a passionate AI/ML enthusiast with a strong focus on Generative AI, Natural
 ![StableDiffusion](https://img.shields.io/badge/StableDiffusion-000000?style=for-the-badge&logo=stable-diffusion&logoColor=white)
 
 ## 📫 Reach Out to Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitagarwal24/)
 
