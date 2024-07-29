@@ -20,7 +20,7 @@ I am a passionate AI/ML enthusiast with a strong focus on Generative AI, Natural
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-282C34?style=for-the-badge)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://cdn0.iconfinder.com/data/icons/HTML5/50/HTML_Logo.png)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
