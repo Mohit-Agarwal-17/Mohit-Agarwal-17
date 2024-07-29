@@ -11,8 +11,9 @@ I am a passionate AI/ML enthusiast with a strong focus on Generative AI, Natural
 ## 💼 Tech Stack
 
 ![Java](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-50.png)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-50.png)
+![Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-50.png)
+![JavaScript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-50.png)
 
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
