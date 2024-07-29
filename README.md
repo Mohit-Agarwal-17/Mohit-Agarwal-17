@@ -11,7 +11,6 @@ I am a passionate AI/ML enthusiast with a strong focus on Generative AI, Natural
 ## 💼 Tech Stack
 
 ![Java](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-50.png)
-![SQL](https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-50.png)
 ![Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-50.png)
 ![JavaScript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-50.png)
 
@@ -26,7 +25,7 @@ I am a passionate AI/ML enthusiast with a strong focus on Generative AI, Natural
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-50.png)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
